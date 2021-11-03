@@ -1,5 +1,6 @@
 package cz.cvut.kbss.utils;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 import lombok.extern.slf4j.Slf4j;
@@ -43,7 +44,7 @@ public class NaiveCombinations {
     }
 
     public static void main(String[] args) {
-        final Set<Object> o = new HashSet<>(1, 2, 3, 4, 5, 6);
+        final Set<Object> o = new HashSet<>(Arrays.asList(1, 2, 3, 4, 5, 6));
         for (int i = 1; i < o.size(); i++) {
             log.info("" + generateCombinations(o, i).size());
         }
