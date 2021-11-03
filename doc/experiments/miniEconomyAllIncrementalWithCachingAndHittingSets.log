@@ -1,0 +1,1035 @@
+2007-05-16 19:10:10,765 [main] INFO  cz.cvut.utils.mus.MUPSTester - # of TBox Concept Axioms = 480
+2007-05-16 19:10:10,766 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 1/338 ... BinaryPredicate : 
+2007-05-16 19:10:10,832 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:10,832 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 2/338 ... SenepolCattle : 
+2007-05-16 19:10:10,866 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:10,866 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 3/338 ... MeatOfLandAnimal : 
+2007-05-16 19:10:10,910 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:10,910 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 4/338 ... CookingOven : 
+2007-05-16 19:10:10,977 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:10,977 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 5/338 ... Pea : 
+2007-05-16 19:10:11,004 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,005 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 6/338 ... Lambskin : 
+2007-05-16 19:10:11,030 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,030 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 7/338 ... Carrot : 
+2007-05-16 19:10:11,053 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:11,451 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:11,452 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint RootVegetable, GroceryProduce), (Carrot ⊑ RootVegetable), (Carrot ⊑ GroceryProduce), 
+2007-05-16 19:10:11,452 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:11,452 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Carrot ⊑ RootVegetable), 
+2007-05-16 19:10:11,452 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Carrot ⊑ GroceryProduce), 
+2007-05-16 19:10:11,452 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 398 ms
+2007-05-16 19:10:11,452 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 8/338 ... VegetableOil : 
+2007-05-16 19:10:11,468 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,468 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 9/338 ... Narcotic : 
+2007-05-16 19:10:11,486 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,486 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 10/338 ... CerealGrass : 
+2007-05-16 19:10:11,514 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,514 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 11/338 ... EdibleNut : 
+2007-05-16 19:10:11,531 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,531 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 12/338 ... NickelOre : 
+2007-05-16 19:10:11,548 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,548 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 13/338 ... OliveOil : 
+2007-05-16 19:10:11,584 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,585 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 14/338 ... Cinnamon : 
+2007-05-16 19:10:11,602 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,602 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 15/338 ... Pelt : 
+2007-05-16 19:10:11,619 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,619 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 16/338 ... Nation : 
+2007-05-16 19:10:11,646 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,646 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 17/338 ... Seafood : 
+2007-05-16 19:10:11,662 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,663 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 18/338 ... Fabric : 
+2007-05-16 19:10:11,679 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,680 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 19/338 ... Duck : 
+2007-05-16 19:10:11,707 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,707 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 20/338 ... NorfolkIslandPineSeed : 
+2007-05-16 19:10:11,726 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,726 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 21/338 ... Goat : 
+2007-05-16 19:10:11,744 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:11,745 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 22/338 ... TaroTuber : 
+2007-05-16 19:10:11,770 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:12,105 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TaroTuber ⊑ GroceryProduce), (disjoint RootVegetable, GroceryProduce), (EdibleTuber ⊑ RootVegetable), (TaroTuber ⊑ EdibleTuber), 
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TaroTuber ⊑ GroceryProduce), 
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (EdibleTuber ⊑ RootVegetable), 
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TaroTuber ⊑ EdibleTuber), 
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 336 ms
+2007-05-16 19:10:12,106 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 23/338 ... Mutton : 
+2007-05-16 19:10:12,113 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,113 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 24/338 ... Orchid : 
+2007-05-16 19:10:12,120 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,121 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 25/338 ... Cheese : 
+2007-05-16 19:10:12,127 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,127 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 26/338 ... Cardamom : 
+2007-05-16 19:10:12,134 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,135 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 27/338 ... Hardwood : 
+2007-05-16 19:10:12,142 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,142 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 28/338 ... Grass : 
+2007-05-16 19:10:12,147 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,148 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 29/338 ... RefinedPetroleumProduct : 
+2007-05-16 19:10:12,155 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,156 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 30/338 ... Squash : 
+2007-05-16 19:10:12,168 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Squash ⊑ GroceryProduce), (Squash ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Squash ⊑ GroceryProduce), 
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Squash ⊑ Vegetable), 
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 210 ms
+2007-05-16 19:10:12,379 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 31/338 ... PalmOilNut : 
+2007-05-16 19:10:12,385 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,385 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 32/338 ... IrreflexiveRelation : 
+2007-05-16 19:10:12,389 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,390 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 33/338 ... AgriculturalProduct : 
+2007-05-16 19:10:12,394 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,394 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 34/338 ... Eggplant : 
+2007-05-16 19:10:12,399 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:12,874 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:12,874 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Eggplant ⊑ GroceryProduce), (Eggplant ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:12,874 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Eggplant ⊑ GroceryProduce), 
+2007-05-16 19:10:12,874 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Eggplant ⊑ Vegetable), 
+2007-05-16 19:10:12,874 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:12,875 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 476 ms
+2007-05-16 19:10:12,875 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 35/338 ... AlmondNut : 
+2007-05-16 19:10:12,880 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,880 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 36/338 ... LeadMetal : 
+2007-05-16 19:10:12,883 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,883 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 37/338 ... cz.cvut.dl.model.impl.basic.TopConcept@125ee49 : 
+2007-05-16 19:10:12,888 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,888 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 38/338 ... IndustrialRawMaterial : 
+2007-05-16 19:10:12,891 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,892 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 39/338 ... Mammal : 
+2007-05-16 19:10:12,897 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:12,897 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 40/338 ... Papaya : 
+2007-05-16 19:10:12,901 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1919
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (Papaya ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Papaya ⊑ GroceryProduce), (Papaya ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Papaya ⊑ TropicalFruit), 
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Papaya ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 415 ms
+2007-05-16 19:10:13,318 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 41/338 ... DieselFuel : 
+2007-05-16 19:10:13,322 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,322 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 42/338 ... ReadyMixConcrete : 
+2007-05-16 19:10:13,326 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,326 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 43/338 ... SweetPotatoTuber : 
+2007-05-16 19:10:13,329 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:13,606 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint RootVegetable, GroceryProduce), (EdibleTuber ⊑ RootVegetable), (SweetPotatoTuber ⊑ GroceryProduce), (SweetPotatoTuber ⊑ EdibleTuber), 
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (EdibleTuber ⊑ RootVegetable), 
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (SweetPotatoTuber ⊑ GroceryProduce), 
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (SweetPotatoTuber ⊑ EdibleTuber), 
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 278 ms
+2007-05-16 19:10:13,607 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 44/338 ... Oilseed : 
+2007-05-16 19:10:13,611 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,611 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 45/338 ... BeverageProduct : 
+2007-05-16 19:10:13,614 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,615 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 46/338 ... Pork : 
+2007-05-16 19:10:13,618 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,618 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 47/338 ... OrnamentalFish : 
+2007-05-16 19:10:13,622 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,622 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 48/338 ... Pig : 
+2007-05-16 19:10:13,625 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,626 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 49/338 ... Sorghum : 
+2007-05-16 19:10:13,629 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,629 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 50/338 ... Poultry : 
+2007-05-16 19:10:13,632 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,632 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 51/338 ... Leaf : 
+2007-05-16 19:10:13,636 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,636 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 52/338 ... SemipreciousGemstone : 
+2007-05-16 19:10:13,639 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,640 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 53/338 ... Tomato : 
+2007-05-16 19:10:13,643 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:13,761 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:13,761 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Tomato ⊑ Fruit), (Tomato ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,761 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Tomato ⊑ Fruit), 
+2007-05-16 19:10:13,761 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Tomato ⊑ GroceryProduce), 
+2007-05-16 19:10:13,762 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,762 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 119 ms
+2007-05-16 19:10:13,762 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 54/338 ... DairyProduct : 
+2007-05-16 19:10:13,765 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,765 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 55/338 ... PecanNut : 
+2007-05-16 19:10:13,769 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,769 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 56/338 ... Avocado : 
+2007-05-16 19:10:13,772 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:13,947 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2396
+2007-05-16 19:10:13,947 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Avocado ⊑ TropicalFruit), (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,947 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Avocado ⊑ GroceryProduce), (Avocado ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,947 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Avocado ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:13,947 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Avocado ⊑ TropicalFruit), 
+2007-05-16 19:10:13,947 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:13,948 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:13,948 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 175 ms
+2007-05-16 19:10:13,948 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 57/338 ... Freezer : 
+2007-05-16 19:10:13,951 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,951 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 58/338 ... Reptile : 
+2007-05-16 19:10:13,954 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,954 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 59/338 ... ManufacturedProduct : 
+2007-05-16 19:10:13,958 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,958 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 60/338 ... Pearl : 
+2007-05-16 19:10:13,961 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:13,961 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 61/338 ... Berry : 
+2007-05-16 19:10:13,965 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:14,066 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:14,066 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Berry ⊑ Fruit), (Berry ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,066 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Berry ⊑ Fruit), 
+2007-05-16 19:10:14,067 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Berry ⊑ GroceryProduce), 
+2007-05-16 19:10:14,067 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,067 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 102 ms
+2007-05-16 19:10:14,067 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 62/338 ... Clothing : 
+2007-05-16 19:10:14,070 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,070 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 63/338 ... Fruit : 
+2007-05-16 19:10:14,073 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,074 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 64/338 ... FinancialTransaction : 
+2007-05-16 19:10:14,077 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,077 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 65/338 ... Refrigerator : 
+2007-05-16 19:10:14,081 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,081 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 66/338 ... Khat : 
+2007-05-16 19:10:14,084 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,085 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 67/338 ... ChemicalProduct : 
+2007-05-16 19:10:14,088 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,088 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 68/338 ... SweetPepper : 
+2007-05-16 19:10:14,091 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:14,195 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:14,196 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (SweetPepper ⊑ GroceryProduce), (SweetPepper ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:14,196 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (SweetPepper ⊑ GroceryProduce), 
+2007-05-16 19:10:14,196 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (SweetPepper ⊑ Vegetable), 
+2007-05-16 19:10:14,196 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:14,196 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 104 ms
+2007-05-16 19:10:14,196 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 69/338 ... RiceGrain : 
+2007-05-16 19:10:14,200 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,201 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 70/338 ... Coconut : 
+2007-05-16 19:10:14,204 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:14,398 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2396
+2007-05-16 19:10:14,398 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Coconut ⊑ GroceryProduce), (Coconut ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,398 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Coconut ⊑ TropicalFruit), (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,399 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Coconut ⊑ TropicalFruit), 
+2007-05-16 19:10:14,399 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:14,399 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Coconut ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:14,399 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,399 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 195 ms
+2007-05-16 19:10:14,399 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 71/338 ... Quinine : 
+2007-05-16 19:10:14,402 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,403 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 72/338 ... Chicken : 
+2007-05-16 19:10:14,406 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,406 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 73/338 ... Substance : 
+2007-05-16 19:10:14,409 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,410 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 74/338 ... CompoundSubstance : 
+2007-05-16 19:10:14,413 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,413 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 75/338 ... Plastic : 
+2007-05-16 19:10:14,416 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,417 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 76/338 ... GroceryProduce : 
+2007-05-16 19:10:14,420 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,420 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 77/338 ... PalmOil : 
+2007-05-16 19:10:14,424 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,424 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 78/338 ... Chrysanthemum : 
+2007-05-16 19:10:14,427 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,427 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 79/338 ... Papaw : 
+2007-05-16 19:10:14,431 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2874
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (Papaw ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ Fruit), (Papaw ⊑ TropicalFruit), (Papaw ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Papaw ⊑ TropicalFruit), 
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ GroceryProduce), (Papaw ⊑ GroceryProduce), 
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 230 ms
+2007-05-16 19:10:14,661 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 80/338 ... Device : 
+2007-05-16 19:10:14,664 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,665 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 81/338 ... PackagedBeverageProduct : 
+2007-05-16 19:10:14,668 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,668 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 82/338 ... Breadfruit : 
+2007-05-16 19:10:14,672 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:14,902 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2874
+2007-05-16 19:10:14,902 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Breadfruit ⊑ GroceryProduce), (Breadfruit ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,902 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Breadfruit ⊑ TropicalFruit), (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,902 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Breadfruit ⊑ TropicalFruit), 
+2007-05-16 19:10:14,902 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:14,903 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Breadfruit ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:14,903 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:14,903 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 231 ms
+2007-05-16 19:10:14,903 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 83/338 ... Sheep : 
+2007-05-16 19:10:14,906 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,906 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 84/338 ... SorghumGrain : 
+2007-05-16 19:10:14,910 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:14,910 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 85/338 ... Plantain : 
+2007-05-16 19:10:14,913 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2396
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ Fruit), (Plantain ⊑ TropicalFruit), (Plantain ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (Plantain ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ GroceryProduce), (Plantain ⊑ GroceryProduce), 
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Plantain ⊑ TropicalFruit), 
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 189 ms
+2007-05-16 19:10:15,102 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 86/338 ... FinancialSectorAttribute : 
+2007-05-16 19:10:15,105 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,106 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 87/338 ... GermanMark : 
+2007-05-16 19:10:15,108 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,109 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 88/338 ... Jewelry : 
+2007-05-16 19:10:15,112 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,112 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 89/338 ... Melon : 
+2007-05-16 19:10:15,116 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Melon ⊑ Fruit), (Melon ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Melon ⊑ Fruit), 
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Melon ⊑ GroceryProduce), 
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 103 ms
+2007-05-16 19:10:15,219 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 90/338 ... PassionFruit : 
+2007-05-16 19:10:15,228 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:15,412 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2396
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (PassionFruit ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (PassionFruit ⊑ GroceryProduce), (PassionFruit ⊑ TropicalFruit), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PassionFruit ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PassionFruit ⊑ TropicalFruit), 
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,413 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 185 ms
+2007-05-16 19:10:15,414 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 91/338 ... RootStarch : 
+2007-05-16 19:10:15,417 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,417 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 92/338 ... GumArabic : 
+2007-05-16 19:10:15,420 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,421 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 93/338 ... CitrusFruit : 
+2007-05-16 19:10:15,424 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:15,533 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:15,534 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (CitrusFruit ⊑ GroceryProduce), (CitrusFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,534 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (CitrusFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:15,534 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (CitrusFruit ⊑ Fruit), 
+2007-05-16 19:10:15,534 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:15,534 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 110 ms
+2007-05-16 19:10:15,534 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 94/338 ... Ginger : 
+2007-05-16 19:10:15,538 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:15,663 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:15,663 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint Spice, Vegetable), (Ginger ⊑ Vegetable), (Ginger ⊑ Spice), 
+2007-05-16 19:10:15,663 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Spice, Vegetable), 
+2007-05-16 19:10:15,663 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Ginger ⊑ Vegetable), 
+2007-05-16 19:10:15,664 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Ginger ⊑ Spice), 
+2007-05-16 19:10:15,664 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 126 ms
+2007-05-16 19:10:15,664 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 95/338 ... PlantAgriculturalProduct : 
+2007-05-16 19:10:15,667 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,667 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 96/338 ... EdibleTuber : 
+2007-05-16 19:10:15,735 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:15,735 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 97/338 ... HandwovenCarpet : 
+2007-05-16 19:10:15,738 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint ManufacturedProduct, HandicraftProduct), (HandwovenCarpet ⊑ TextileProduct), (TextileProduct ⊑ ManufacturedProduct), (HandwovenCarpet ⊑ HandicraftProduct), 
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint ManufacturedProduct, HandicraftProduct), 
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (HandwovenCarpet ⊑ TextileProduct), 
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TextileProduct ⊑ ManufacturedProduct), 
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (HandwovenCarpet ⊑ HandicraftProduct), 
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 373 ms
+2007-05-16 19:10:16,112 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 98/338 ... Crayfish : 
+2007-05-16 19:10:16,116 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,116 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 99/338 ... DurableGood : 
+2007-05-16 19:10:16,119 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,119 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 100/338 ... JuteFiber : 
+2007-05-16 19:10:16,123 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,123 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 101/338 ... Cucumber : 
+2007-05-16 19:10:16,126 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:16,234 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:16,235 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Cucumber ⊑ Vegetable), (Cucumber ⊑ GroceryProduce), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:16,235 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cucumber ⊑ Vegetable), 
+2007-05-16 19:10:16,235 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cucumber ⊑ GroceryProduce), 
+2007-05-16 19:10:16,235 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:16,235 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 109 ms
+2007-05-16 19:10:16,235 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 102/338 ... CurrencyMeasure : 
+2007-05-16 19:10:16,238 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,238 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 103/338 ... GreenPepper : 
+2007-05-16 19:10:16,241 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:16,344 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:16,345 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (GreenPepper ⊑ GroceryProduce), (GreenPepper ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:16,345 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (GreenPepper ⊑ GroceryProduce), 
+2007-05-16 19:10:16,346 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (GreenPepper ⊑ Vegetable), 
+2007-05-16 19:10:16,346 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:16,346 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 105 ms
+2007-05-16 19:10:16,346 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 104/338 ... CopperOre : 
+2007-05-16 19:10:16,349 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,350 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 105/338 ... WineGrape : 
+2007-05-16 19:10:16,353 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,353 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 106/338 ... Organization : 
+2007-05-16 19:10:16,356 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,356 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 107/338 ... Turnip : 
+2007-05-16 19:10:16,359 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:16,469 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:16,470 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint RootVegetable, GroceryProduce), (Turnip ⊑ RootVegetable), (Turnip ⊑ GroceryProduce), 
+2007-05-16 19:10:16,470 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:16,470 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Turnip ⊑ RootVegetable), 
+2007-05-16 19:10:16,470 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Turnip ⊑ GroceryProduce), 
+2007-05-16 19:10:16,470 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 111 ms
+2007-05-16 19:10:16,470 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 108/338 ... Lentil : 
+2007-05-16 19:10:16,473 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,473 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 109/338 ... Cannabis : 
+2007-05-16 19:10:16,476 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,476 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 110/338 ... Detergent : 
+2007-05-16 19:10:16,479 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,479 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 111/338 ... Nutmeg : 
+2007-05-16 19:10:16,482 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,483 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 112/338 ... Mango : 
+2007-05-16 19:10:16,486 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:16,744 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2874
+2007-05-16 19:10:16,747 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (Mango ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:16,747 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Mango ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (Mango ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:16,748 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:16,748 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Mango ⊑ TropicalFruit), 
+2007-05-16 19:10:16,748 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Mango ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:16,748 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:16,748 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 262 ms
+2007-05-16 19:10:16,748 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 113/338 ... WaterBuffalo : 
+2007-05-16 19:10:16,754 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,754 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 114/338 ... OrganicObject : 
+2007-05-16 19:10:16,757 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,758 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 115/338 ... CashewNut : 
+2007-05-16 19:10:16,761 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,761 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 116/338 ... SheaNut : 
+2007-05-16 19:10:16,764 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,765 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 117/338 ... IMFDevelopmentLevel : 
+2007-05-16 19:10:16,768 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,768 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 118/338 ... TeaLeaf : 
+2007-05-16 19:10:16,771 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,771 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 119/338 ... Asphalt : 
+2007-05-16 19:10:16,775 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,776 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 120/338 ... Sugar : 
+2007-05-16 19:10:16,779 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,779 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 121/338 ... PalmKernel : 
+2007-05-16 19:10:16,782 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:16,782 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 122/338 ... Cabbage : 
+2007-05-16 19:10:16,785 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:16,893 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:16,894 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Cabbage ⊑ GroceryProduce), (Cabbage ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:16,894 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cabbage ⊑ GroceryProduce), 
+2007-05-16 19:10:16,894 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cabbage ⊑ Vegetable), 
+2007-05-16 19:10:16,894 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:16,894 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 108 ms
+2007-05-16 19:10:16,894 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 123/338 ... Machinery : 
+2007-05-16 19:10:16,905 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,085 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2395
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Machinery ⊑ IndustrialSupply), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), (DurableGood ⊑ ManufacturedProduct), (Machinery ⊑ DurableGood), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Machinery ⊑ IndustrialSupply), (IndustrialSupply ⊑ ManufacturedProduct), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), (Machinery ⊑ DurableGood), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Machinery ⊑ IndustrialSupply), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ CapitalGood), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint ManufacturedProduct, CapitalGood), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), (DurableGood ⊑ ManufacturedProduct), 
+2007-05-16 19:10:17,086 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 181 ms
+2007-05-16 19:10:17,087 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 124/338 ... CropProduction : 
+2007-05-16 19:10:17,090 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,091 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 125/338 ... Artifact : 
+2007-05-16 19:10:17,095 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,096 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 126/338 ... AfghanAfghani : 
+2007-05-16 19:10:17,099 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,099 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 127/338 ... Coca : 
+2007-05-16 19:10:17,104 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,104 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 128/338 ... Camel : 
+2007-05-16 19:10:17,107 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,107 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 129/338 ... UnitOfMeasure : 
+2007-05-16 19:10:17,111 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,111 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 130/338 ... Lemon : 
+2007-05-16 19:10:17,114 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (CitrusFruit ⊑ GroceryProduce), (Lemon ⊑ CitrusFruit), (CitrusFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (CitrusFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Lemon ⊑ CitrusFruit), 
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (CitrusFruit ⊑ Fruit), 
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 140 ms
+2007-05-16 19:10:17,254 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 131/338 ... PotatoTuber : 
+2007-05-16 19:10:17,258 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint RootVegetable, GroceryProduce), (PotatoTuber ⊑ EdibleTuber), (EdibleTuber ⊑ RootVegetable), (PotatoTuber ⊑ GroceryProduce), 
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PotatoTuber ⊑ EdibleTuber), 
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (EdibleTuber ⊑ RootVegetable), 
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PotatoTuber ⊑ GroceryProduce), 
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 138 ms
+2007-05-16 19:10:17,396 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 132/338 ... ItalianLire : 
+2007-05-16 19:10:17,399 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,400 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 133/338 ... Alfalfa : 
+2007-05-16 19:10:17,403 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,535 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:17,535 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint Fodder, AgriculturalProduct), (Alfalfa ⊑ Fodder), (PlantAgriculturalProduct ⊑ AgriculturalProduct), (Alfalfa ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:17,535 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fodder, AgriculturalProduct), 
+2007-05-16 19:10:17,535 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Alfalfa ⊑ Fodder), 
+2007-05-16 19:10:17,535 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PlantAgriculturalProduct ⊑ AgriculturalProduct), 
+2007-05-16 19:10:17,536 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Alfalfa ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:17,536 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 133 ms
+2007-05-16 19:10:17,536 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 134/338 ... Fish : 
+2007-05-16 19:10:17,539 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,540 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 135/338 ... TeaPlantAerialPart : 
+2007-05-16 19:10:17,543 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,543 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 136/338 ... FishRoe : 
+2007-05-16 19:10:17,546 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,546 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 137/338 ... WearableItem : 
+2007-05-16 19:10:17,549 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,550 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 138/338 ... WoodProduct : 
+2007-05-16 19:10:17,553 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,553 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 139/338 ... Cassava : 
+2007-05-16 19:10:17,556 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,668 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:17,669 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint RootVegetable, GroceryProduce), (Cassava ⊑ RootVegetable), (Cassava ⊑ GroceryProduce), 
+2007-05-16 19:10:17,669 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:17,669 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cassava ⊑ RootVegetable), 
+2007-05-16 19:10:17,669 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cassava ⊑ GroceryProduce), 
+2007-05-16 19:10:17,669 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 113 ms
+2007-05-16 19:10:17,669 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 140/338 ... LeadProduct : 
+2007-05-16 19:10:17,672 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,673 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 141/338 ... Copra : 
+2007-05-16 19:10:17,676 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,676 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 142/338 ... TernaryPredicate : 
+2007-05-16 19:10:17,679 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,680 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 143/338 ... Alumina : 
+2007-05-16 19:10:17,682 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,683 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 144/338 ... ElectricalPowerGeneration : 
+2007-05-16 19:10:17,686 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,686 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 145/338 ... LeafyGreenVegetable : 
+2007-05-16 19:10:17,689 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,789 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:17,789 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (LeafyGreenVegetable ⊑ GroceryProduce), (LeafyGreenVegetable ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:17,789 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (LeafyGreenVegetable ⊑ GroceryProduce), 
+2007-05-16 19:10:17,789 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (LeafyGreenVegetable ⊑ Vegetable), 
+2007-05-16 19:10:17,789 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:17,789 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 100 ms
+2007-05-16 19:10:17,790 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 146/338 ... EconomicAttribute : 
+2007-05-16 19:10:17,793 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,793 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 147/338 ... ClothesDrier : 
+2007-05-16 19:10:17,796 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,797 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 148/338 ... Soap : 
+2007-05-16 19:10:17,800 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:17,800 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 149/338 ... Lumber : 
+2007-05-16 19:10:17,803 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:17,933 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Lumber ⊑ ForestProduct), (disjoint ManufacturedProduct, ForestProduct), (Lumber ⊑ ManufacturedProduct), 
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Lumber ⊑ ForestProduct), (Lumber ⊑ DurableGood), (disjoint ManufacturedProduct, ForestProduct), (DurableGood ⊑ ManufacturedProduct), 
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Lumber ⊑ ForestProduct), 
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Lumber ⊑ DurableGood), (Lumber ⊑ ManufacturedProduct), 
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint ManufacturedProduct, ForestProduct), 
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Lumber ⊑ ManufacturedProduct), (DurableGood ⊑ ManufacturedProduct), 
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 131 ms
+2007-05-16 19:10:17,934 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 150/338 ... Groundnut : 
+2007-05-16 19:10:17,938 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:18,098 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:18,098 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint RootVegetable, GroceryProduce), (Groundnut ⊑ GroceryProduce), (EdibleTuber ⊑ RootVegetable), (Groundnut ⊑ EdibleTuber), 
+2007-05-16 19:10:18,098 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:18,098 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Groundnut ⊑ GroceryProduce), 
+2007-05-16 19:10:18,099 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (EdibleTuber ⊑ RootVegetable), 
+2007-05-16 19:10:18,099 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Groundnut ⊑ EdibleTuber), 
+2007-05-16 19:10:18,099 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 161 ms
+2007-05-16 19:10:18,099 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 151/338 ... Electricity : 
+2007-05-16 19:10:18,102 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,102 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 152/338 ... OatGrain : 
+2007-05-16 19:10:18,105 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,106 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 153/338 ... TropicalFruit : 
+2007-05-16 19:10:18,109 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 117 ms
+2007-05-16 19:10:18,226 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 154/338 ... IronMetal : 
+2007-05-16 19:10:18,230 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,230 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 155/338 ... Donkey : 
+2007-05-16 19:10:18,233 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,234 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 156/338 ... DateFruit : 
+2007-05-16 19:10:18,237 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:18,407 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2396
+2007-05-16 19:10:18,407 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ Fruit), (DateFruit ⊑ GroceryProduce), (DateFruit ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (DateFruit ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ GroceryProduce), (DateFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (DateFruit ⊑ TropicalFruit), 
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 171 ms
+2007-05-16 19:10:18,408 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 157/338 ... ProductPackage : 
+2007-05-16 19:10:18,411 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,411 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 158/338 ... Wine : 
+2007-05-16 19:10:18,414 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,415 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 159/338 ... Salmon : 
+2007-05-16 19:10:18,418 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,419 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 160/338 ... Soya : 
+2007-05-16 19:10:18,422 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,422 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 161/338 ... PerfumeEssence : 
+2007-05-16 19:10:18,425 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,425 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 162/338 ... SisalFiber : 
+2007-05-16 19:10:18,428 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,429 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 163/338 ... Vanilla : 
+2007-05-16 19:10:18,432 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,432 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 164/338 ... Timber : 
+2007-05-16 19:10:18,435 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,436 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 165/338 ... EconomicSector : 
+2007-05-16 19:10:18,439 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,439 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 166/338 ... BodyCovering : 
+2007-05-16 19:10:18,442 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,442 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 167/338 ... AnimalSkin : 
+2007-05-16 19:10:18,445 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,446 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 168/338 ... IndustryAttribute : 
+2007-05-16 19:10:18,449 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,449 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 169/338 ... FruitOrVegetable : 
+2007-05-16 19:10:18,452 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,452 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 170/338 ... Livestock : 
+2007-05-16 19:10:18,455 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,455 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 171/338 ... CutFlower : 
+2007-05-16 19:10:18,459 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,459 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 172/338 ... TajikSomoni : 
+2007-05-16 19:10:18,462 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,462 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 173/338 ... SymbolicString : 
+2007-05-16 19:10:18,465 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,466 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 174/338 ... Product : 
+2007-05-16 19:10:18,470 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,470 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 175/338 ... MotorOil : 
+2007-05-16 19:10:18,473 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,473 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 176/338 ... Deer : 
+2007-05-16 19:10:18,477 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,477 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 177/338 ... KilowattHour : 
+2007-05-16 19:10:18,480 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,480 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 178/338 ... Beverage : 
+2007-05-16 19:10:18,483 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,483 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 179/338 ... PaddyRice : 
+2007-05-16 19:10:18,486 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,486 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 180/338 ... PPPBasedEconomicValuation : 
+2007-05-16 19:10:18,491 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,491 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 181/338 ... Bean : 
+2007-05-16 19:10:18,494 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,494 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 182/338 ... ZincProduct : 
+2007-05-16 19:10:18,498 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,498 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 183/338 ... BarleyGrain : 
+2007-05-16 19:10:18,502 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,502 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 184/338 ... IronOre : 
+2007-05-16 19:10:18,505 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,505 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 185/338 ... ChangeOfPossession : 
+2007-05-16 19:10:18,508 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,508 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 186/338 ... FunctionQuantity : 
+2007-05-16 19:10:18,511 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,512 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 187/338 ... Okoume : 
+2007-05-16 19:10:18,515 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,515 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 188/338 ... LambMeat : 
+2007-05-16 19:10:18,519 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,519 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 189/338 ... Banana : 
+2007-05-16 19:10:18,523 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:18,728 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2874
+2007-05-16 19:10:18,728 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (Banana ⊑ TropicalFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,728 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (TropicalFruit ⊑ Fruit), (Banana ⊑ TropicalFruit), (Banana ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,729 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:18,729 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Banana ⊑ TropicalFruit), 
+2007-05-16 19:10:18,729 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ GroceryProduce), (Banana ⊑ GroceryProduce), 
+2007-05-16 19:10:18,729 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,729 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 206 ms
+2007-05-16 19:10:18,729 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 190/338 ... Caviar : 
+2007-05-16 19:10:18,732 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,732 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 191/338 ... Cocaine : 
+2007-05-16 19:10:18,736 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,736 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 192/338 ... SugarBeet : 
+2007-05-16 19:10:18,739 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,740 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 193/338 ... ZincOre : 
+2007-05-16 19:10:18,743 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,743 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 194/338 ... PharmaceuticalProduct : 
+2007-05-16 19:10:18,746 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,748 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 195/338 ... MacademiaNut : 
+2007-05-16 19:10:18,752 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,752 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 196/338 ... FlaxFiber : 
+2007-05-16 19:10:18,755 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,755 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 197/338 ... WaterBuffaloMeat : 
+2007-05-16 19:10:18,759 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,759 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 198/338 ... Lime : 
+2007-05-16 19:10:18,762 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:18,891 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (CitrusFruit ⊑ GroceryProduce), (CitrusFruit ⊑ Fruit), (Lime ⊑ CitrusFruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (CitrusFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (CitrusFruit ⊑ Fruit), 
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Lime ⊑ CitrusFruit), 
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 130 ms
+2007-05-16 19:10:18,892 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 199/338 ... HandicraftProduct : 
+2007-05-16 19:10:18,896 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,896 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 200/338 ... Spice : 
+2007-05-16 19:10:18,900 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,900 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 201/338 ... Honey : 
+2007-05-16 19:10:18,903 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,903 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 202/338 ... EuroDollar : 
+2007-05-16 19:10:18,906 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,906 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 203/338 ... Exporting : 
+2007-05-16 19:10:18,909 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,910 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 204/338 ... Footwear : 
+2007-05-16 19:10:18,917 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,917 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 205/338 ... MaizeGrain : 
+2007-05-16 19:10:18,920 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,920 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 206/338 ... MetalProduct : 
+2007-05-16 19:10:18,924 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,925 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 207/338 ... FishProduct : 
+2007-05-16 19:10:18,928 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,930 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 208/338 ... Gemstone : 
+2007-05-16 19:10:18,933 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,934 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 209/338 ... SpicePepper : 
+2007-05-16 19:10:18,937 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,937 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 210/338 ... PackagedFoodProduct : 
+2007-05-16 19:10:18,941 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,941 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 211/338 ... AnatomicalStructure : 
+2007-05-16 19:10:18,944 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,944 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 212/338 ... YlangYlang : 
+2007-05-16 19:10:18,947 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,947 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 213/338 ... RelationalAttribute : 
+2007-05-16 19:10:18,955 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,955 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 214/338 ... IndustryAttribute : 
+2007-05-16 19:10:18,958 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,959 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 215/338 ... BiologicallyActiveSubstance : 
+2007-05-16 19:10:18,964 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,965 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 216/338 ... CookingRange : 
+2007-05-16 19:10:18,968 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,968 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 217/338 ... CerealGrain : 
+2007-05-16 19:10:18,971 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,972 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 218/338 ... OpiumPoppy : 
+2007-05-16 19:10:18,976 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:18,976 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 219/338 ... SugarCane : 
+2007-05-16 19:10:18,979 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:19,147 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:19,148 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (SugarCane ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), (SugarCane ⊑ GroceryProduce), 
+2007-05-16 19:10:19,148 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (SugarCane ⊑ Vegetable), 
+2007-05-16 19:10:19,148 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:19,148 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (SugarCane ⊑ GroceryProduce), 
+2007-05-16 19:10:19,149 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 170 ms
+2007-05-16 19:10:19,149 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 220/338 ... Seed : 
+2007-05-16 19:10:19,154 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,154 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 221/338 ... ChickenMeat : 
+2007-05-16 19:10:19,180 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,180 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 222/338 ... CapitalGood : 
+2007-05-16 19:10:19,184 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,184 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 223/338 ... Horse : 
+2007-05-16 19:10:19,187 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,188 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 224/338 ... MiningProduct : 
+2007-05-16 19:10:19,193 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,193 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 225/338 ... Bird : 
+2007-05-16 19:10:19,197 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,197 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 226/338 ... Peanut : 
+2007-05-16 19:10:19,200 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,200 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 227/338 ... Object : 
+2007-05-16 19:10:19,203 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,204 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 228/338 ... CottonFiber : 
+2007-05-16 19:10:19,212 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,212 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 229/338 ... Pineapple : 
+2007-05-16 19:10:19,215 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:19,428 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2874
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Pineapple ⊑ TropicalFruit), (Pineapple ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Pineapple ⊑ TropicalFruit), (TropicalFruit ⊑ GroceryProduce), (TropicalFruit ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Pineapple ⊑ TropicalFruit), 
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Pineapple ⊑ GroceryProduce), (TropicalFruit ⊑ GroceryProduce), 
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (TropicalFruit ⊑ Fruit), 
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 213 ms
+2007-05-16 19:10:19,429 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 230/338 ... YamTuber : 
+2007-05-16 19:10:19,432 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:19,584 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:19,585 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (YamTuber ⊑ EdibleTuber), (disjoint RootVegetable, GroceryProduce), (EdibleTuber ⊑ RootVegetable), (YamTuber ⊑ GroceryProduce), 
+2007-05-16 19:10:19,585 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (YamTuber ⊑ EdibleTuber), 
+2007-05-16 19:10:19,585 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint RootVegetable, GroceryProduce), 
+2007-05-16 19:10:19,585 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (EdibleTuber ⊑ RootVegetable), 
+2007-05-16 19:10:19,585 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (YamTuber ⊑ GroceryProduce), 
+2007-05-16 19:10:19,586 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 154 ms
+2007-05-16 19:10:19,586 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 231/338 ... GuernseyCattle : 
+2007-05-16 19:10:19,589 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,589 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 232/338 ... Aloes : 
+2007-05-16 19:10:19,592 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,592 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 233/338 ... Milk : 
+2007-05-16 19:10:19,595 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,596 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 234/338 ... UNEconomicDevelopmentLevel : 
+2007-05-16 19:10:19,599 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,599 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 235/338 ... Apple : 
+2007-05-16 19:10:19,602 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:19,738 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:19,739 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Apple ⊑ GroceryProduce), (Apple ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:19,739 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Apple ⊑ GroceryProduce), 
+2007-05-16 19:10:19,739 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Apple ⊑ Fruit), 
+2007-05-16 19:10:19,739 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:19,739 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 137 ms
+2007-05-16 19:10:19,739 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 236/338 ... Tobacco : 
+2007-05-16 19:10:19,743 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,743 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 237/338 ... ConsumerGood : 
+2007-05-16 19:10:19,746 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,746 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 238/338 ... KentiaPalmSeed : 
+2007-05-16 19:10:19,750 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,750 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 239/338 ... ControlledSubstance : 
+2007-05-16 19:10:19,754 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,754 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 240/338 ... IndustrialSupply : 
+2007-05-16 19:10:19,757 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:19,864 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:19,864 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (IndustrialSupply ⊑ ManufacturedProduct), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), 
+2007-05-16 19:10:19,864 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), 
+2007-05-16 19:10:19,864 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ CapitalGood), 
+2007-05-16 19:10:19,864 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint ManufacturedProduct, CapitalGood), 
+2007-05-16 19:10:19,865 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 107 ms
+2007-05-16 19:10:19,865 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 241/338 ... Plant : 
+2007-05-16 19:10:19,868 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,868 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 242/338 ... Process : 
+2007-05-16 19:10:19,872 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,872 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 243/338 ... IndependentState : 
+2007-05-16 19:10:19,875 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,875 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 244/338 ... Automobile : 
+2007-05-16 19:10:19,878 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,879 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 245/338 ... BalsaWood : 
+2007-05-16 19:10:19,882 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,882 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 246/338 ... Sesame : 
+2007-05-16 19:10:19,885 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,885 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 247/338 ... PetroleumProduct : 
+2007-05-16 19:10:19,889 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,889 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 248/338 ... OpiumPoppyFarming : 
+2007-05-16 19:10:19,892 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,892 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 249/338 ... Cattle : 
+2007-05-16 19:10:19,895 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,896 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 250/338 ... Meat : 
+2007-05-16 19:10:19,899 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,899 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 251/338 ... RootVegetable : 
+2007-05-16 19:10:19,906 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,906 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 252/338 ... AnimalAgriculturalProduct : 
+2007-05-16 19:10:19,909 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,909 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 253/338 ... Beef : 
+2007-05-16 19:10:19,912 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,913 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 254/338 ... AluminumMetal : 
+2007-05-16 19:10:19,916 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,916 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 255/338 ... WheatGrain : 
+2007-05-16 19:10:19,919 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,920 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 256/338 ... GeopoliticalArea : 
+2007-05-16 19:10:19,926 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,927 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 257/338 ... Mixture : 
+2007-05-16 19:10:19,930 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,930 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 258/338 ... Furniture : 
+2007-05-16 19:10:19,933 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:19,933 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 259/338 ... MulberryLeaf : 
+2007-05-16 19:10:19,936 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:20,082 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:20,082 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint Fodder, AgriculturalProduct), (PlantAgriculturalProduct ⊑ AgriculturalProduct), (MulberryLeaf ⊑ PlantAgriculturalProduct), (MulberryLeaf ⊑ Fodder), 
+2007-05-16 19:10:20,082 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fodder, AgriculturalProduct), 
+2007-05-16 19:10:20,082 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PlantAgriculturalProduct ⊑ AgriculturalProduct), 
+2007-05-16 19:10:20,082 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (MulberryLeaf ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:20,082 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (MulberryLeaf ⊑ Fodder), 
+2007-05-16 19:10:20,083 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 146 ms
+2007-05-16 19:10:20,083 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 260/338 ... EconomicSystemAttribute : 
+2007-05-16 19:10:20,086 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,086 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 261/338 ... HoofedMammal : 
+2007-05-16 19:10:20,089 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,090 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 262/338 ... PhosphoricAcid : 
+2007-05-16 19:10:20,093 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,093 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 263/338 ... Steel : 
+2007-05-16 19:10:20,096 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,097 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 264/338 ... Reindeer : 
+2007-05-16 19:10:20,103 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,103 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 265/338 ... TurkeyMeat : 
+2007-05-16 19:10:20,106 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,106 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 266/338 ... Shellfish : 
+2007-05-16 19:10:20,110 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,110 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 267/338 ... ElectricDevice : 
+2007-05-16 19:10:20,113 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,113 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 268/338 ... Fertilizer : 
+2007-05-16 19:10:20,117 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,117 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 269/338 ... Mace : 
+2007-05-16 19:10:20,120 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,121 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 270/338 ... WorldBankGNIPerCapitaLevel : 
+2007-05-16 19:10:20,123 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,124 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 271/338 ... ReproductiveBody : 
+2007-05-16 19:10:20,127 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,128 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 272/338 ... Watermelon : 
+2007-05-16 19:10:20,131 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:20,272 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:20,272 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Melon ⊑ Fruit), (Melon ⊑ GroceryProduce), (Watermelon ⊑ Melon), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:20,273 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Melon ⊑ Fruit), 
+2007-05-16 19:10:20,273 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Melon ⊑ GroceryProduce), 
+2007-05-16 19:10:20,273 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Watermelon ⊑ Melon), 
+2007-05-16 19:10:20,273 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:20,273 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 142 ms
+2007-05-16 19:10:20,273 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 273/338 ... BlackPepper : 
+2007-05-16 19:10:20,276 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,277 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 274/338 ... MajorAppliance : 
+2007-05-16 19:10:20,280 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,280 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 275/338 ... ForestProduct : 
+2007-05-16 19:10:20,284 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,284 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 276/338 ... PowerGeneration : 
+2007-05-16 19:10:20,287 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,287 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 277/338 ... Concrete : 
+2007-05-16 19:10:20,290 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,291 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 278/338 ... CoffeeBean : 
+2007-05-16 19:10:20,294 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,294 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 279/338 ... Clover : 
+2007-05-16 19:10:20,297 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:20,436 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Clover ⊑ Fodder), (disjoint Fodder, AgriculturalProduct), (PlantAgriculturalProduct ⊑ AgriculturalProduct), (Clover ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Clover ⊑ Fodder), 
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fodder, AgriculturalProduct), 
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PlantAgriculturalProduct ⊑ AgriculturalProduct), 
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Clover ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 140 ms
+2007-05-16 19:10:20,437 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 280/338 ... Olive : 
+2007-05-16 19:10:20,440 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:20,541 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:20,541 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Olive ⊑ GroceryProduce), (Olive ⊑ Fruit), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:20,542 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Olive ⊑ GroceryProduce), 
+2007-05-16 19:10:20,542 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Olive ⊑ Fruit), 
+2007-05-16 19:10:20,542 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:20,542 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 102 ms
+2007-05-16 19:10:20,542 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 281/338 ... PetroleumLubricant : 
+2007-05-16 19:10:20,545 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,545 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 282/338 ... Sheepskin : 
+2007-05-16 19:10:20,548 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,549 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 283/338 ... Vegetable : 
+2007-05-16 19:10:20,559 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,559 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 284/338 ... Goose : 
+2007-05-16 19:10:20,562 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,563 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 285/338 ... ClothesWashingMachine : 
+2007-05-16 19:10:20,566 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,566 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 286/338 ... Petroleum : 
+2007-05-16 19:10:20,570 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,570 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 287/338 ... Cement : 
+2007-05-16 19:10:20,573 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,574 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 288/338 ... PreciousGemstone : 
+2007-05-16 19:10:20,577 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,577 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 289/338 ... MilletGrain : 
+2007-05-16 19:10:20,580 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,581 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 290/338 ... Shrimp : 
+2007-05-16 19:10:20,584 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,584 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 291/338 ... Clove : 
+2007-05-16 19:10:20,587 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,587 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 292/338 ... HotWaterHeater : 
+2007-05-16 19:10:20,591 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,591 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 293/338 ... Turtle : 
+2007-05-16 19:10:20,594 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,594 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 294/338 ... CocoaBean : 
+2007-05-16 19:10:20,600 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,600 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 295/338 ... Sunflower : 
+2007-05-16 19:10:20,604 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,604 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 296/338 ... HempFiber : 
+2007-05-16 19:10:20,607 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,608 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 297/338 ... Cocoa : 
+2007-05-16 19:10:20,611 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,611 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 298/338 ... IntentionalProcess : 
+2007-05-16 19:10:20,615 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,615 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 299/338 ... WoolFiber : 
+2007-05-16 19:10:20,618 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,618 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 300/338 ... UnaryFunction : 
+2007-05-16 19:10:20,622 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,622 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 301/338 ... Relation : 
+2007-05-16 19:10:20,625 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,625 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 302/338 ... Turkey : 
+2007-05-16 19:10:20,628 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,628 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 303/338 ... FrenchFranc : 
+2007-05-16 19:10:20,632 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,632 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 304/338 ... CowPea : 
+2007-05-16 19:10:20,637 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,638 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 305/338 ... NaturalRubber : 
+2007-05-16 19:10:20,640 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,641 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 306/338 ... Veal : 
+2007-05-16 19:10:20,645 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,646 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 307/338 ... FloweringPlant : 
+2007-05-16 19:10:20,648 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,649 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 308/338 ... CanadianDollar : 
+2007-05-16 19:10:20,654 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,654 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 309/338 ... Dishwasher : 
+2007-05-16 19:10:20,666 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,667 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 310/338 ... Mineral : 
+2007-05-16 19:10:20,670 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,670 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 311/338 ... JapaneseYen : 
+2007-05-16 19:10:20,673 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,674 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 312/338 ... TextileProduct : 
+2007-05-16 19:10:20,677 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,677 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 313/338 ... PhysicalQuantity : 
+2007-05-16 19:10:20,680 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,680 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 314/338 ... MachineTool : 
+2007-05-16 19:10:20,683 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:20,923 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 3345
+2007-05-16 19:10:20,923 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Machinery ⊑ IndustrialSupply), (IndustrialSupply ⊑ ManufacturedProduct), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), (MachineTool ⊑ Machinery), 
+2007-05-16 19:10:20,923 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Machinery ⊑ IndustrialSupply), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), (DurableGood ⊑ ManufacturedProduct), (Machinery ⊑ DurableGood), (MachineTool ⊑ Machinery), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), (Machinery ⊑ DurableGood), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Machinery ⊑ IndustrialSupply), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ CapitalGood), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint ManufacturedProduct, CapitalGood), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), (DurableGood ⊑ ManufacturedProduct), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (MachineTool ⊑ Machinery), 
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 241 ms
+2007-05-16 19:10:20,924 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 315/338 ... FoodProduct : 
+2007-05-16 19:10:20,927 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,927 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 316/338 ... BritishPound : 
+2007-05-16 19:10:20,930 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,930 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 317/338 ... Fodder : 
+2007-05-16 19:10:20,936 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,936 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 318/338 ... Gasoline : 
+2007-05-16 19:10:20,939 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,939 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 319/338 ... SunflowerSeed : 
+2007-05-16 19:10:20,943 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:20,943 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 320/338 ... Grape : 
+2007-05-16 19:10:20,946 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:21,057 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:21,058 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Grape ⊑ Fruit), (Grape ⊑ GroceryProduce), (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:21,058 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Grape ⊑ Fruit), 
+2007-05-16 19:10:21,058 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Grape ⊑ GroceryProduce), 
+2007-05-16 19:10:21,058 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fruit, GroceryProduce), 
+2007-05-16 19:10:21,058 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 112 ms
+2007-05-16 19:10:21,058 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 321/338 ... Corn : 
+2007-05-16 19:10:21,062 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:21,162 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:21,162 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Corn ⊑ Vegetable), (Corn ⊑ GroceryProduce), (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:21,162 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Corn ⊑ Vegetable), 
+2007-05-16 19:10:21,162 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Corn ⊑ GroceryProduce), 
+2007-05-16 19:10:21,163 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:21,163 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 101 ms
+2007-05-16 19:10:21,163 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 322/338 ... Legume : 
+2007-05-16 19:10:21,166 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,167 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 323/338 ... Cauliflower : 
+2007-05-16 19:10:21,170 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1440
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Cauliflower ⊑ Vegetable), (disjoint Vegetable, GroceryProduce), (Cauliflower ⊑ GroceryProduce), 
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cauliflower ⊑ Vegetable), 
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Vegetable, GroceryProduce), 
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Cauliflower ⊑ GroceryProduce), 
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 114 ms
+2007-05-16 19:10:21,284 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 324/338 ... Machine : 
+2007-05-16 19:10:21,287 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 2871
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Machinery ⊑ IndustrialSupply), (IndustrialSupply ⊑ ManufacturedProduct), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), (Machine ⊑ Machinery), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (Machinery ⊑ IndustrialSupply), (IndustrialSupply ⊑ CapitalGood), (disjoint ManufacturedProduct, CapitalGood), (DurableGood ⊑ ManufacturedProduct), (Machinery ⊑ DurableGood), (Machine ⊑ Machinery), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), (Machinery ⊑ DurableGood), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Machinery ⊑ IndustrialSupply), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ CapitalGood), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint ManufacturedProduct, CapitalGood), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (IndustrialSupply ⊑ ManufacturedProduct), (DurableGood ⊑ ManufacturedProduct), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (Machine ⊑ Machinery), 
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 203 ms
+2007-05-16 19:10:21,490 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 325/338 ... Nut : 
+2007-05-16 19:10:21,494 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,494 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 326/338 ... Bauxite : 
+2007-05-16 19:10:21,497 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,497 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 327/338 ... OldTajikSomoni : 
+2007-05-16 19:10:21,500 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,500 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 328/338 ... FoodEgg : 
+2007-05-16 19:10:21,504 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,504 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 329/338 ... Opium : 
+2007-05-16 19:10:21,507 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,507 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 330/338 ... ForageCrop : 
+2007-05-16 19:10:21,510 [main] INFO  cz.cvut.utils.mus.MUPSTester - UNSAT
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester - AllIncremental + Caching + Hitting Sets: # of I-SAT tests = 1918
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : MUPS = (disjoint Fodder, AgriculturalProduct), (ForageCrop ⊑ Fodder), (PlantAgriculturalProduct ⊑ AgriculturalProduct), (ForageCrop ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (disjoint Fodder, AgriculturalProduct), 
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (ForageCrop ⊑ Fodder), 
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (PlantAgriculturalProduct ⊑ AgriculturalProduct), 
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : HS = (ForageCrop ⊑ PlantAgriculturalProduct), 
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester -                : time = 141 ms
+2007-05-16 19:10:21,652 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 331/338 ... FoodFish : 
+2007-05-16 19:10:21,656 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,656 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 332/338 ... EconomicDevelopmentLevel : 
+2007-05-16 19:10:21,659 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,659 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 333/338 ... Pyrethrum : 
+2007-05-16 19:10:21,662 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,663 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 334/338 ... Soybean : 
+2007-05-16 19:10:21,666 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,666 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 335/338 ... Walnut : 
+2007-05-16 19:10:21,669 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,669 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 336/338 ... Agent : 
+2007-05-16 19:10:21,672 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,672 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 337/338 ... RyeGrain : 
+2007-05-16 19:10:21,676 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,676 [main] INFO  cz.cvut.utils.mus.MUPSTester - Checking 338/338 ... LeadOre : 
+2007-05-16 19:10:21,679 [main] INFO  cz.cvut.utils.mus.MUPSTester - SAT
+2007-05-16 19:10:21,679 [main] INFO  cz.cvut.utils.mus.MUPSTester - # total time taken for explanations = 8996
+2007-05-16 19:10:21,679 [main] INFO  cz.cvut.utils.mus.MUPSTester - # of axioms = 480, axioms = [MachineTool < Machinery, SisalFiber < PlantAgriculturalProduct, OpiumPoppyFarming < CropProduction, PharmaceuticalProduct < BiologicallyActiveSubstance, ControlledSubstance < BiologicallyActiveSubstance, Pyrethrum < BiologicallyActiveSubstance, Groundnut < GroceryProduce, Groundnut < FruitOrVegetable, Groundnut < EdibleTuber, Papaya < GroceryProduce, Papaya < TropicalFruit, Bauxite < MiningProduct, Bauxite < Mixture, Pig < HoofedMammal, Pig < Livestock, Exporting < FinancialTransaction, TaroTuber < GroceryProduce, TaroTuber < EdibleTuber, Shellfish < Seafood, FoodFish < Seafood, Seafood < Meat, Petroleum < PetroleumProduct, AnimalSkin < BodyCovering, Pearl < SemipreciousGemstone, Tomato < Fruit, CitrusFruit < Fruit, Grape < Fruit, Apple < Fruit, Melon < Fruit, Berry < Fruit, Olive < Fruit, TropicalFruit < Fruit, Fruit < FruitOrVegetable, CerealGrass < Grass, Okoume < Hardwood, Cocoa < FruitOrVegetable, Cocoa < PlantAgriculturalProduct, Mutton < MeatOfLandAnimal, EconomicSector < IndustryAttribute, IndustryAttribute < RelationalAttribute, ClothesWashingMachine < MajorAppliance, CookingOven < MajorAppliance, ClothesDrier < MajorAppliance, Freezer < MajorAppliance, Dishwasher < MajorAppliance, Refrigerator < MajorAppliance, HotWaterHeater < MajorAppliance, CookingRange < MajorAppliance, MajorAppliance < ElectricDevice, MajorAppliance < DurableGood, CutFlower < PlantAgriculturalProduct, PackagedFoodProduct < Product, Cardamom < Spice, Duck < Poultry, AluminumMetal < MetalProduct, FlaxFiber < PlantAgriculturalProduct, Squash < Vegetable, GreenPepper < Vegetable, Cauliflower < Vegetable, Corn < Vegetable, SugarCane < Vegetable, Cucumber < Vegetable, Ginger < Vegetable, Legume < Vegetable, SugarBeet < Vegetable, CerealGrain < Vegetable, LeafyGreenVegetable < Vegetable, Eggplant < Vegetable, SweetPepper < Vegetable, Cabbage < Vegetable, Vegetable < FruitOrVegetable, IronMetal < MetalProduct, Exporting < ChangeOfPossession, PalmKernel < PlantAgriculturalProduct, MulberryLeaf < Leaf, Leaf < AnatomicalStructure, IMFDevelopmentLevel < EconomicDevelopmentLevel, PassionFruit < GroceryProduce, PassionFruit < TropicalFruit, WaterBuffalo < HoofedMammal, WaterBuffalo < Livestock, Sheepskin < Pelt, Lambskin < Pelt, Pelt < AnimalAgriculturalProduct, Pelt < AnimalSkin, LeadOre < MiningProduct, PetroleumProduct < MiningProduct, ZincOre < MiningProduct, NickelOre < MiningProduct, IronOre < MiningProduct, PreciousGemstone < MiningProduct, CopperOre < MiningProduct, SemipreciousGemstone < MiningProduct, MiningProduct < Product, Plastic < ManufacturedProduct, Coconut < GroceryProduce, Coconut < TropicalFruit, NickelOre < Mineral, Cucumber < GroceryProduce, Alfalfa < Plant, Alfalfa < Fodder, Alfalfa < PlantAgriculturalProduct, Sorghum < CerealGrass, MaizeGrain < CerealGrain, Goat < HoofedMammal, Goat < Livestock, Vanilla < Spice, AfghanAfghani < CurrencyMeasure, JapaneseYen < CurrencyMeasure, BritishPound < CurrencyMeasure, GermanMark < CurrencyMeasure, TajikSomoni < CurrencyMeasure, FrenchFranc < CurrencyMeasure, OldTajikSomoni < CurrencyMeasure, CanadianDollar < CurrencyMeasure, ItalianLire < CurrencyMeasure, EuroDollar < CurrencyMeasure, Tomato < GroceryProduce, Pea < Legume, PetroleumLubricant < RefinedPetroleumProduct, DieselFuel < RefinedPetroleumProduct, Gasoline < RefinedPetroleumProduct, Asphalt < RefinedPetroleumProduct, RefinedPetroleumProduct < PetroleumProduct, SorghumGrain < CerealGrain, SheaNut < EdibleNut, OliveOil < VegetableOil, Chrysanthemum < FloweringPlant, Chrysanthemum < PlantAgriculturalProduct, MotorOil < PetroleumLubricant, Orchid < FloweringPlant, Orchid < PlantAgriculturalProduct, CoffeeBean < FruitOrVegetable, CoffeeBean < PlantAgriculturalProduct, Corn < GroceryProduce, PalmOil < VegetableOil, VegetableOil < PlantAgriculturalProduct, Coca < PlantAgriculturalProduct, TurkeyMeat < MeatOfLandAnimal, UNEconomicDevelopmentLevel < EconomicDevelopmentLevel, Tobacco < PlantAgriculturalProduct, LambMeat < MeatOfLandAnimal, Camel < Mammal, OrnamentalFish < Fish, OrnamentalFish < AnimalAgriculturalProduct, TeaLeaf < TeaPlantAerialPart, ForageCrop < Plant, ForageCrop < Fodder, ForageCrop < PlantAgriculturalProduct, PreciousGemstone < Gemstone, SemipreciousGemstone < Gemstone, Gemstone < Object, Plantain < GroceryProduce, Plantain < TropicalFruit, Wine < Beverage, Wine < PlantAgriculturalProduct, Cinnamon < Spice, Shrimp < Shellfish, Avocado < GroceryProduce, Avocado < TropicalFruit, PecanNut < EdibleNut, Jewelry < WearableItem, Clothing < WearableItem, WearableItem < Artifact, Machinery < Device, Cauliflower < GroceryProduce, Sugar < Substance, Sugar < PlantAgriculturalProduct, RyeGrain < CerealGrain, Carrot < RootVegetable, Cassava < RootVegetable, EdibleTuber < RootVegetable, Turnip < RootVegetable, RootVegetable < FruitOrVegetable, RootVegetable < PlantAgriculturalProduct, HempFiber < PlantAgriculturalProduct, PalmOilNut < Nut, Nut < ReproductiveBody, Nut < PlantAgriculturalProduct, WineGrape < PlantAgriculturalProduct, ReadyMixConcrete < Concrete, Concrete < ManufacturedProduct, Concrete < Mixture, PharmaceuticalProduct < ManufacturedProduct, Cement < ManufacturedProduct, Lumber < ManufacturedProduct, MetalProduct < ManufacturedProduct, LeadProduct < ManufacturedProduct, IndustrialSupply < ManufacturedProduct, ZincProduct < ManufacturedProduct, DurableGood < ManufacturedProduct, TextileProduct < ManufacturedProduct, ConsumerGood < ManufacturedProduct, ChemicalProduct < ManufacturedProduct, ManufacturedProduct < Product, TeaPlantAerialPart < FruitOrVegetable, Alumina < CompoundSubstance, NorfolkIslandPineSeed < Seed, NorfolkIslandPineSeed < PlantAgriculturalProduct, Salmon < FoodFish, LeadOre < Mineral, PPPBasedEconomicValuation < Relation, CottonFiber < PlantAgriculturalProduct, BalsaWood < WoodProduct, Crayfish < Shellfish, CashewNut < EdibleNut, EconomicSystemAttribute < EconomicAttribute, Caviar < FishRoe, Furniture < DurableGood, MacademiaNut < EdibleNut, Chicken < Poultry, PaddyRice < CerealGrass, DateFruit < GroceryProduce, DateFruit < TropicalFruit, Milk < DairyProduct, JuteFiber < PlantAgriculturalProduct, Soap < Detergent, OpiumPoppy < FloweringPlant, OpiumPoppy < PlantAgriculturalProduct, Reindeer < HoofedMammal, Reindeer < Livestock, NaturalRubber < PlantAgriculturalProduct, SunflowerSeed < Seed, KentiaPalmSeed < Seed, Oilseed < Seed, Seed < FruitOrVegetable, Lemon < CitrusFruit, Pork < MeatOfLandAnimal, ChickenMeat < MeatOfLandAnimal, Beef < MeatOfLandAnimal, Veal < MeatOfLandAnimal, WaterBuffaloMeat < MeatOfLandAnimal, MeatOfLandAnimal < Meat, Grape < GroceryProduce, Cannabis < PlantAgriculturalProduct, HandwovenCarpet < HandicraftProduct, HandwovenCarpet < TextileProduct, PharmaceuticalProduct < ChemicalProduct, Fertilizer < ChemicalProduct, ChemicalProduct < CompoundSubstance, AnimalAgriculturalProduct < AgriculturalProduct, PlantAgriculturalProduct < AgriculturalProduct, AgriculturalProduct < OrganicObject, AgriculturalProduct < Product, Mango < TropicalFruit, Banana < TropicalFruit, Breadfruit < TropicalFruit, Papaw < TropicalFruit, Pineapple < TropicalFruit, TropicalFruit < GroceryProduce, Turkey < Poultry, Lime < CitrusFruit, CitrusFruit < GroceryProduce, Narcotic < ControlledSubstance, WoolFiber < AnimalAgriculturalProduct, KilowattHour < FunctionQuantity, HandicraftProduct < Product, LeadProduct < LeadMetal, Sheep < Livestock, Donkey < Livestock, Deer < Livestock, Horse < Livestock, Turtle < Livestock, Poultry < Livestock, HoofedMammal < Livestock, Cattle < Livestock, Camel < Livestock, Livestock < AnimalAgriculturalProduct, Deer < HoofedMammal, Turtle < Reptile, YamTuber < GroceryProduce, YamTuber < EdibleTuber, Watermelon < Melon, Mace < Spice, Nutmeg < Spice, SpicePepper < Spice, BlackPepper < Spice, Ginger < Spice, Clove < Spice, Spice < FruitOrVegetable, Spice < PlantAgriculturalProduct, OatGrain < CerealGrain, WheatGrain < CerealGrain, MilletGrain < CerealGrain, BarleyGrain < CerealGrain, RiceGrain < CerealGrain, CerealGrain < PlantAgriculturalProduct, LeafyGreenVegetable < GroceryProduce, SenepolCattle < Cattle, GuernseyCattle < Cattle, Cattle < HoofedMammal, FinancialSectorAttribute < EconomicAttribute, FishProduct < AnimalAgriculturalProduct, FoodEgg < AnimalAgriculturalProduct, Honey < AnimalAgriculturalProduct, Meat < AnimalAgriculturalProduct, HoofedMammal < AnimalAgriculturalProduct, DairyProduct < AnimalAgriculturalProduct, Carrot < GroceryProduce, Footwear < Clothing, GumArabic < Substance, GumArabic < PlantAgriculturalProduct, CocoaBean < FruitOrVegetable, CocoaBean < PlantAgriculturalProduct, Soybean < Bean, ElectricalPowerGeneration < PowerGeneration, PowerGeneration < Process, WorldBankGNIPerCapitaLevel < EconomicDevelopmentLevel, PalmOilNut < PlantAgriculturalProduct, Quinine < PlantAgriculturalProduct, Goose < Poultry, Poultry < Bird, ProductPackage < Object, ZincProduct < MetalProduct, Cheese < DairyProduct, IronOre < Mineral, EconomicDevelopmentLevel < EconomicAttribute, EconomicAttribute < RelationalAttribute, Electricity < Substance, Sesame < PlantAgriculturalProduct, ForestProduct < Product, FoodProduct < Product, CapitalGood < Product, BeverageProduct < Product, PackagedBeverageProduct < Product, WoodProduct < ForestProduct, Lumber < ForestProduct, Timber < ForestProduct, PotatoTuber < GroceryProduce, PotatoTuber < EdibleTuber, Machine < Machinery, Machinery < IndustrialSupply, Machinery < DurableGood, Cocaine < Narcotic, Cocaine < PlantAgriculturalProduct, Pineapple < GroceryProduce, ZincOre < Mineral, SweetPotatoTuber < GroceryProduce, SweetPotatoTuber < EdibleTuber, Walnut < EdibleNut, GreenPepper < GroceryProduce, Cement < CompoundSubstance, CopperOre < Mineral, Peanut < GroceryProduce, Peanut < EdibleNut, Berry < GroceryProduce, MulberryLeaf < Fodder, Clover < Fodder, Fodder < OrganicObject, Detergent < CompoundSubstance, Mango < GroceryProduce, MulberryLeaf < PlantAgriculturalProduct, Squash < GroceryProduce, EdibleNut < GroceryProduce, Olive < GroceryProduce, Apple < GroceryProduce, Eggplant < GroceryProduce, Cassava < GroceryProduce, Turnip < GroceryProduce, Cabbage < GroceryProduce, Melon < GroceryProduce, SugarCane < GroceryProduce, Breadfruit < GroceryProduce, Papaw < GroceryProduce, Banana < GroceryProduce, SweetPepper < GroceryProduce, GroceryProduce < FruitOrVegetable, GroceryProduce < PlantAgriculturalProduct, Fabric < TextileProduct, Sunflower < FloweringPlant, Sunflower < PlantAgriculturalProduct, Opium < Narcotic, Opium < PlantAgriculturalProduct, SunflowerSeed < PlantAgriculturalProduct, Steel < MetalProduct, CowPea < Legume, YlangYlang < PerfumeEssence, IndustrialSupply < CapitalGood, Bean < Legume, RootStarch < FruitOrVegetable, RootStarch < PlantAgriculturalProduct, AlmondNut < EdibleNut, EdibleNut < FruitOrVegetable, EdibleTuber < PlantAgriculturalProduct, PerfumeEssence < PlantAgriculturalProduct, KentiaPalmSeed < PlantAgriculturalProduct, Clover < PlantAgriculturalProduct, Copra < PlantAgriculturalProduct, Aloes < PlantAgriculturalProduct, Pyrethrum < PlantAgriculturalProduct, Oilseed < PlantAgriculturalProduct, Soya < PlantAgriculturalProduct, Legume < PlantAgriculturalProduct, Khat < PlantAgriculturalProduct, IndustrialRawMaterial < CapitalGood, Fertilizer < Mixture, Hardwood < WoodProduct, FishRoe < FishProduct, Clover < Plant, PetroleumProduct < CompoundSubstance, Lentil < Legume, LeadMetal < MetalProduct, Donkey < HoofedMammal, Lumber < DurableGood, MetalProduct < DurableGood, Automobile < DurableGood, PhosphoricAcid < CompoundSubstance, Sheep < HoofedMammal, Horse < HoofedMammal, [Disjointness Axiom : [FoodProduct, AgriculturalProduct]], [Disjointness Axiom : [ManufacturedProduct, FoodProduct]], [Disjointness Axiom : [Vegetable, GroceryProduce]], [Disjointness Axiom : [HandicraftProduct, ForestProduct]], [Disjointness Axiom : [AnimalAgriculturalProduct, PlantAgriculturalProduct]], [Disjointness Axiom : [FoodProduct, CapitalGood]], [Disjointness Axiom : [ManufacturedProduct, MiningProduct]], [Disjointness Axiom : [PackagedFoodProduct, BeverageProduct]], [Disjointness Axiom : [Spice, GroceryProduce]], [Disjointness Axiom : [BeverageProduct, CapitalGood]], [Disjointness Axiom : [HandicraftProduct, PackagedBeverageProduct]], [Disjointness Axiom : [ManufacturedProduct, AgriculturalProduct]], [Disjointness Axiom : [ManufacturedProduct, BeverageProduct]], [Disjointness Axiom : [ManufacturedProduct, PackagedBeverageProduct]], [Disjointness Axiom : [BeverageProduct, ForestProduct]], [Disjointness Axiom : [PackagedFoodProduct, MiningProduct]], [Disjointness Axiom : [HandicraftProduct, AgriculturalProduct]], [Disjointness Axiom : [Fruit, GroceryProduce]], [Disjointness Axiom : [RootVegetable, Fruit]], [Disjointness Axiom : [PackagedFoodProduct, PackagedBeverageProduct]], [Disjointness Axiom : [TeaPlantAerialPart, RootVegetable]], [Disjointness Axiom : [GroceryProduce, RootStarch]], [Disjointness Axiom : [FoodProduct, ForestProduct]], [Disjointness Axiom : [PackagedBeverageProduct, CapitalGood]], [Disjointness Axiom : [AgriculturalProduct, CapitalGood]], [Disjointness Axiom : [AgriculturalProduct, ForestProduct]], [Disjointness Axiom : [Vegetable, Seed]], [Disjointness Axiom : [HandicraftProduct, BeverageProduct]], [Disjointness Axiom : [HandicraftProduct, MiningProduct]], [Disjointness Axiom : [FoodProduct, BeverageProduct]], [Disjointness Axiom : [ManufacturedProduct, HandicraftProduct]], [Disjointness Axiom : [HandicraftProduct, CapitalGood]], [Disjointness Axiom : [TeaPlantAerialPart, Vegetable]], [Disjointness Axiom : [ManufacturedProduct, CapitalGood]], [Disjointness Axiom : [Fruit, RootStarch]], [Disjointness Axiom : [TeaPlantAerialPart, Spice]], [Disjointness Axiom : [PackagedBeverageProduct, ForestProduct]], [Disjointness Axiom : [ManufacturedProduct, ForestProduct]], [Disjointness Axiom : [ForestProduct, MiningProduct]], [Disjointness Axiom : [Vegetable, RootStarch]], [Disjointness Axiom : [PackagedFoodProduct, FoodProduct]], [Disjointness Axiom : [ControlledSubstance, Pyrethrum]], [Disjointness Axiom : [PackagedFoodProduct, CapitalGood]], [Disjointness Axiom : [Spice, RootStarch]], [Disjointness Axiom : [CapitalGood, MiningProduct]], [Disjointness Axiom : [RootVegetable, Seed]], [Disjointness Axiom : [BeverageProduct, MiningProduct]], [Disjointness Axiom : [Seed, RootStarch]], [Disjointness Axiom : [PackagedFoodProduct, ManufacturedProduct]], [Disjointness Axiom : [TeaPlantAerialPart, GroceryProduce]], [Disjointness Axiom : [GroceryProduce, Seed]], [Disjointness Axiom : [AgriculturalProduct, MiningProduct]], [Disjointness Axiom : [Spice, Vegetable]], [Disjointness Axiom : [FoodProduct, HandicraftProduct]], [Disjointness Axiom : [PackagedFoodProduct, HandicraftProduct]], [Disjointness Axiom : [RootVegetable, GroceryProduce]], [Disjointness Axiom : [TeaPlantAerialPart, RootStarch]], [Disjointness Axiom : [Fodder, AgriculturalProduct]], [Disjointness Axiom : [Pyrethrum, PharmaceuticalProduct]], [Disjointness Axiom : [CapitalGood, ForestProduct]], [Disjointness Axiom : [PackagedBeverageProduct, BeverageProduct]], [Disjointness Axiom : [PackagedFoodProduct, AgriculturalProduct]], [Disjointness Axiom : [PackagedBeverageProduct, AgriculturalProduct]], [Disjointness Axiom : [TeaPlantAerialPart, Seed]], [Disjointness Axiom : [PackagedBeverageProduct, MiningProduct]], [Disjointness Axiom : [FoodProduct, PackagedBeverageProduct]], [Disjointness Axiom : [Spice, Seed]], [Disjointness Axiom : [RootVegetable, Spice]], [Disjointness Axiom : [PackagedFoodProduct, ForestProduct]], [Disjointness Axiom : [RootVegetable, Vegetable]], [Disjointness Axiom : [FoodProduct, MiningProduct]]]
+2007-05-16 19:10:21,680 [main] INFO  cz.cvut.utils.mus.MUPSTester - # total number of unsat tests = 96852
+2007-05-16 19:10:21,680 [main] INFO  cz.cvut.utils.mus.MUPSTester - # of unsat classes = 51

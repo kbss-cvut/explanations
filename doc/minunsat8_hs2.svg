@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://web.resource.org/cc/"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.w3.org/2000/svg"
+        id="svg1920"
+        sodipodi:version="0.32"
+        inkscape:version="0.44.1"
+        width="1113"
+        height="389"
+        version="1.0"
+        sodipodi:docbase="/home/kremen/work/java/dlt/doc"
+        sodipodi:docname="minunsat8_hs_2.png.svg"
+        inkscape:export-filename="/home/kremen/work/java/dlt/doc/minunsat8_hs_2.png"
+        inkscape:export-xdpi="90" inkscape:export-ydpi="90"
+        xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# ">
+    <metadata
+            id="metadata1925">
+        <rdf:RDF>
+            <cc:Work
+                    rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                        rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+            id="defs1923"/>
+    <sodipodi:namedview
+            inkscape:window-height="1124"
+            inkscape:window-width="1592"
+            inkscape:pageshadow="2"
+            inkscape:pageopacity="0.0"
+            guidetolerance="10.0"
+            gridtolerance="10.0"
+            objecttolerance="10.0"
+            borderopacity="1.0"
+            bordercolor="#666666"
+            pagecolor="#ffffff"
+            id="base"
+            inkscape:zoom="0.73315364"
+            inkscape:cx="553.27074"
+            inkscape:cy="570.33264"
+            inkscape:window-x="0"
+            inkscape:window-y="0"
+            inkscape:current-layer="svg1920"
+            showgrid="true"/>
+    <image
+            xlink:href="minunsat8_hs2.png"
+            sodipodi:absref="/home/kremen/work/java/dlt/doc/minunsat8_hs2.png"
+            width="1113"
+            height="389"
+            id="image1927"
+            x="0"
+            y="0"/>
+    <path
+            sodipodi:type="arc"
+            style="fill:black;fill-opacity:0.11764706;fill-rule:evenodd;stroke:black;stroke-width:1.91845072;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+            id="path1929"
+            sodipodi:cx="346.10754"
+            sodipodi:cy="94.382355"
+            sodipodi:rx="103.32077"
+            sodipodi:ry="94.113968"
+            d="M 449.42831 94.382355 A 103.32077 94.113968 0 1 1  242.78677,94.382355 A 103.32077 94.113968 0 1 1  449.42831 94.382355 z"
+            transform="matrix(0.483544,0.421735,0.175459,0.544805,128.3281,-126.8385)"/>
+    <path
+            sodipodi:type="arc"
+            style="fill:black;fill-opacity:0.11764706;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            id="path2818"
+            sodipodi:cx="346.10754"
+            sodipodi:cy="94.382355"
+            sodipodi:rx="103.32077"
+            sodipodi:ry="94.113968"
+            d="M 449.42831 94.382355 A 103.32077 94.113968 0 1 1  242.78677,94.382355 A 103.32077 94.113968 0 1 1  449.42831 94.382355 z"
+            transform="matrix(-0.441966,0.579097,-0.611733,0.244469,437.4648,-153.3317)"/>
+    <path
+            style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="M 928.86397,63.011029 L 928.86397,63.011029 z "
+            id="path2830"/>
+    <path
+            style="fill:black;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.11764706"
+            d="M 814.31783,217.84662 C 826.75467,227.32433 846.34385,208.98544 862.42843,195.51717 C 878.513,182.04889 901.71619,161.07454 911.11769,131.58533 C 920.55013,101.99906 925.02033,7.1460381 903.65791,10.52308 C 882.29549,13.900122 891.0779,49.145975 860.69281,113.84386 C 830.30772,178.54175 789.60759,199.01575 814.31783,217.84662 z "
+            id="path2875"
+            sodipodi:nodetypes="czzzzz"/>
+    <path
+            sodipodi:type="arc"
+            style="fill:black;fill-opacity:0.11764706;stroke:black;stroke-width:0.83499998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+            id="path4652"
+            sodipodi:cx="611.74078"
+            sodipodi:cy="86.198532"
+            sodipodi:rx="24.55147"
+            sodipodi:ry="70.926468"
+            d="M 636.29225 86.198532 A 24.55147 70.926468 0 1 1  587.18931,86.198532 A 24.55147 70.926468 0 1 1  636.29225 86.198532 z"
+            transform="matrix(0.94576,0.324868,-0.324868,0.94576,46.31853,-207.3747)"/>
+    <path
+            style="fill:black;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.11764706"
+            d="M 1010.0723,218.18761 C 997.63543,227.66532 918.24992,162.7947 899.97369,138.40519 C 881.69746,114.01568 878.22636,11.958334 902.74585,10.374148 C 927.26534,8.7899631 907.19563,67.671307 945.28368,125.09662 C 983.37174,182.52193 1034.7825,199.35674 1010.0723,218.18761 z "
+            id="path4654"
+            sodipodi:nodetypes="czzzz"/>
+</svg>
